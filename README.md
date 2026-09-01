@@ -1,4 +1,3 @@
-# LoadBalancer
 # On-Premise Load Balancer & High Availability
 
 ## Overview
